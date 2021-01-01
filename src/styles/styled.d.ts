@@ -13,10 +13,10 @@ declare module 'styled-components' {
         colorGreen: string,
         colorGray: string,*/
         primary: string,
-        /*secondary: string,*/
+        secondary: string,
         textColor: string,
         /*header: string,
-        headerNumber: string,
-        activeMenu: string,*/
+        headerNumber: string,*/
+        activeMenu: string,
     }
 }
